@@ -71,9 +71,7 @@ password_checker/
    - **Good**: Password meets at least 3 criteria and is at least 8 characters long.
    - **Strong**: Password meets at least 3 criteria and is 12 or more characters long.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
