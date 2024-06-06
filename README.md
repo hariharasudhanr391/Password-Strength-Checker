@@ -45,7 +45,7 @@ password_checker/
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/yourusername/password_checker.git
+   gh repo clone hariharasudhanr391/Password-Strength-Checker
    cd password_checker
 1. **Install Dependencies:**
 
